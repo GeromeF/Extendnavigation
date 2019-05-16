@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtendedMenues view="fr_FR">
+<Before>
+	<MenuItem title="Accueil" link="/fr/"></MenuItem>
+</Before>
+<After>
+	<MenuItem title="A propos" link="#">
+		<MenuItem title="Services" link="/fr/services/"></MenuItem>
+		<MenuItem title="Portfolio" link="/fr/blog/category/portfolio/"></MenuItem>
+		<MenuItem title="CV" link="/fr/cv/"></MenuItem>
+	</MenuItem>
+	<MenuItem title="Contact" link="/fr/contact"></MenuItem>
+</After>
+</ExtendedMenues>

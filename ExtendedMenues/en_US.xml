@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtendedMenues view="fr_FR">
+<Before>
+	<MenuItem title="Home" link="/en/"></MenuItem>
+</Before>
+<After>
+	<MenuItem title="Contact" link="/en/contact"></MenuItem>
+</After>
+</ExtendedMenues>
